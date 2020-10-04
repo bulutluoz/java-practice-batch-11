@@ -19,9 +19,7 @@ public class Soru06 {
 		int count=0;
 		Scanner scan=new Scanner(System.in);
 		do {
-			
-			
-			
+
 			System.out.println("Bir sayi giriniz");
 			int sayi= scan.nextInt();
 			

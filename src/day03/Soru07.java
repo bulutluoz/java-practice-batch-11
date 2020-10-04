@@ -27,7 +27,7 @@ public class Soru07 {
 				
 			} System.out.println();
 		}
-		
+		scan.close();
 		
 	}
 
