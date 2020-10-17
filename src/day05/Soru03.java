@@ -19,6 +19,7 @@ public class Soru03 {
 		 * Output : .lezug koc kamzay doK
 		 */
 		
+		@SuppressWarnings("resource")
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Tersini Cevirmek Icin Bir Cumle giriniz");
 		String str = scan.nextLine();

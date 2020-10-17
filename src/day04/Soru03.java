@@ -41,7 +41,7 @@ public class Soru03 {
 			System.out.println("girdiginiz sayi arrayde yok");
 		}
 
-		
+		scan.close();
 	}
 
 }

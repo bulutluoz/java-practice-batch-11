@@ -131,7 +131,7 @@ public class Soru06 {
 				System.out.println(" ");
 				break;
 		}
-
+		scan.close();
 	}
 }
 

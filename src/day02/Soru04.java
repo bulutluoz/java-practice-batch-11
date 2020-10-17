@@ -58,7 +58,7 @@ public class Soru04 {
 			
 		} else System.out.println("Lutfen size soylenen seceneklerden birini giriniz");
 		
-
+		scan.close();
 	}
 
 }

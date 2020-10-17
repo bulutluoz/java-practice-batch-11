@@ -37,6 +37,8 @@ public class Soru05 {
 		// 3) 100 ler basamagindaki sayiyi bulun
 		int yuzler=sayi/=10;
 		System.out.println("girdiginiz sayinin yuzler basamagi " + yuzler);
+		
+		scan.close();
 	}
 
 }

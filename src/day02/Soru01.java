@@ -52,7 +52,7 @@ public class Soru01 {
 		} else System.out.println("Vucut kutle endeksiniz : " + vke + ", obezsiniz");
 		
 
-		
+		scan.close();
 	}
 
 }

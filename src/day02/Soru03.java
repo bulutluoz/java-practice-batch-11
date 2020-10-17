@@ -48,7 +48,7 @@ public class Soru03 {
 		
 		}
 		
-		
+		scan.close();
 
 	}
 
