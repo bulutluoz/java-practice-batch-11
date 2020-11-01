@@ -47,22 +47,6 @@ public class Soru01 {
 		oyuncuDegistir();
 		
 		onaySor();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 }
 
